@@ -1,0 +1,28 @@
+{
+  "name": "ganji",
+  "version": "1.0.0",
+  "description": "赶集网爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "杨衡轶",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.2",
+    "eventproxy": "^1.0.0",
+    "express": "^4.15.3",
+    "express-static": "^1.2.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mysql": "^2.13.0",
+    "superagent": "^3.5.2"
+  }
+}
